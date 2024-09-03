@@ -1,0 +1,2 @@
+# Automated-Bus-Scheduling-and-Route-Management-System-for-Delhi-Transport-Corporation
+The Automated Bus Scheduling and Route Management System will use algorithms and GIS to streamline DTC's bus operations. Key features include linked and unlinked duty scheduling, crew management, and route optimization. The system will enhance efficiency, reduce errors, and improve service reliability with a user-friendly interface.
